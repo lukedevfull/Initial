@@ -1,4 +1,3 @@
-package udemy.edu.main.list.application;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,7 +45,7 @@ public class ListProgram {
   public static void main(String[] args) {
     // Creates a list of strings
     List<String> list = new ArrayList<>();
-    
+
     // Adds elements to the list
     list.add("Maria");
     list.add("Alex");
@@ -54,13 +53,13 @@ public class ListProgram {
     list.add("Ana");
     list.add("Jill");
     list.add("Jenny");
- 
+
     // Displays the list size
     System.out.println("List Size: " + list.size());
 
     // Prints the initial list
     printList(list, "Initial List");
-    
+
     // Adds an element at position 0
     list.add(0, "Luke");
 
@@ -69,7 +68,7 @@ public class ListProgram {
 
     // Prints the list after modifications
     printList(list, "Modified List");
-    
+
     // Searches for positions of specific elements
     printPosition(list, "Bob");
     printPosition(list, "Luke");
