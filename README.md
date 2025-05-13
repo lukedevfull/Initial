@@ -5,7 +5,7 @@ Repositório organizado e comentado de estudos basicos em Java, referentes ao cu
 ## Stack utilizada
 
 **Back-end:** Java <br>
-<img src="https://images.icon-icons.com/195/PNG/256/Java_23404.png" width="32" height="32" />
+<img src="https://images.icon-icons.com/195/PNG/256/Java_23404.png" width="40" height="40" />
 
 ## Feedback
 
