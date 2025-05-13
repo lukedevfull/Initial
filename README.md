@@ -4,7 +4,7 @@ Repositório organizado e comentado de estudos em Java, referentes ao curso de d
 
 ## Stack utilizada
 
-**Back-end:** Java 
+**Back-end:** Java <br>
 <img src="https://images.icon-icons.com/195/PNG/256/Java_23404.png" width="32" height="32" />
 
 ## Feedback
