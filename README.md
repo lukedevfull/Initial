@@ -1,6 +1,6 @@
 # Repositório Inicial de Estudos Java
 
-Repositório organizado e comentado de estudos em Java, referentes ao curso de desenvolvimento backend Java do professor Nelio Alves
+Repositório organizado e comentado de estudos basicos em Java, referentes ao curso de desenvolvimento backend Java do professor Nelio Alves
 
 ## Stack utilizada
 
